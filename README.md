@@ -4,8 +4,7 @@ I’m an aspiring Data Scientist focused on building real-world projects in mach
 
 ## Projects
 
-### Tipping-behavior-classification
-Built machine learning models to predict customer churn using classification techniques (Logistic Regression, Random Forest, XGBoost).
+### 
 
 
 ## Skills
