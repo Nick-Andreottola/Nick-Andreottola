@@ -4,7 +4,11 @@ I’m an aspiring Data Scientist focused on building real-world projects in mach
 
 ## Projects
 
-### 
+### Tipping Behavior Classification
+- Compared Logistic Regression, Decision Tree, and Random Forest models using cross-validation
+- Performed feature engineering and one-hot encoding to prepare categorical data for modeling
+- Achieved 90% accuracy using Logistic Regression, improving performance over a baseline model by 35%.
+
 
 
 ## Skills
